@@ -1,0 +1,53 @@
+{
+    "declarations": {
+        "use_frameworks!": {
+            "declaration": "use_frameworks!",
+            "count": 1
+        }
+    },
+    "sources": {
+        "https://github.com/brightcove/BrightcoveSpecs.git": {
+            "source": "https://github.com/brightcove/BrightcoveSpecs.git",
+            "count": 1
+        },
+        "https://github.com/CocoaPods/Specs.git": {
+            "source": "https://github.com/CocoaPods/Specs.git",
+            "count": 1
+        }
+    },
+    "libraries": {
+        "WebRTC": {
+            "name": "WebRTC",
+            "count": 1
+        },
+        "CocoaLumberjack": {
+            "name": "CocoaLumberjack",
+            "count": 1
+        },
+        "SocketRocket": {
+            "name": "SocketRocket",
+            "count": 1
+        },
+        "ZXingObjC": {
+            "name": "ZXingObjC",
+            "version": ">=3.2.2",
+            "count": 1
+        },
+        "SSZipArchive": {
+            "name": "SSZipArchive",
+            "count": 1
+        },
+        "TensorFlowLiteObjC": {
+            "name": "TensorFlowLiteObjC",
+            "count": 1
+        },
+        "GoogleMLKit/TextRecognition": {
+            "name": "GoogleMLKit/TextRecognition",
+            "count": 1
+        },
+        "GoogleMLKit/FaceDetection": {
+            "name": "GoogleMLKit/FaceDetection",
+            "count": 1
+        }
+    }
+}
