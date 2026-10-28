@@ -10,9 +10,6 @@
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.idmission.sdk.Client"
     },
-    "cordova-plugin-inappbrowser": {
-      "PACKAGE_NAME": "com.idmission.sdk.Client"
-    },
     "com.idmission.sdk.plugin": {
       "PACKAGE_NAME": "com.idmission.sdk.Client"
     }
